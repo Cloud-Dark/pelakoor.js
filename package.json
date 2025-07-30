@@ -1,0 +1,27 @@
+{
+  "name": "pelakoor",
+  "version": "1.0.0",
+  "description": "🌍 Coordinate Toolkit - Your ultimate coordinate companion",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "dependencies": {
+    "axios": "^1.6.0",
+    "chalk": "^4.1.2",
+    "cli-table3": "^0.6.3",
+    "figlet": "^1.7.0",
+    "geolib": "^3.3.4",
+    "inquirer": "^9.2.12"
+  },
+  "keywords": [
+    "coordinate",
+    "geolocation",
+    "toolkit",
+    "cli"
+  ],
+  "author": "Your Name",
+  "license": "MIT"
+}
