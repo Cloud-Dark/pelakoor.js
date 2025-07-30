@@ -6,10 +6,6 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Node.js Version](https://img.shields.io/badge/node-%3E%3D%2014.0.0-brightgreen)](https://nodejs.org/)
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Cloud-Dark/pelakoor/main/assets/pelakoor-logo.png" alt="Pelakoor Logo" width="300"/>
-</div>
-
 ## 📖 Description
 
 Pelakoor is an advanced geographic coordinate toolkit that provides various geocoding services, distance calculations, coordinate format conversions, and other geographic utilities through an interactive and user-friendly command-line interface.
