@@ -1,0 +1,31 @@
+{
+  "defaultProvider": "osm",
+  "providers": {
+    "osm": {
+      "name": "OpenStreetMap (Nominatim)",
+      "requiresKey": false,
+      "active": true
+    },
+    "google": {
+      "name": "Google Maps API",
+      "requiresKey": true,
+      "active": false
+    },
+    "mapbox": {
+      "name": "Mapbox API",
+      "requiresKey": true,
+      "active": false
+    },
+    "here": {
+      "name": "HERE API",
+      "requiresKey": true,
+      "active": false
+    }
+  },
+  "features": {
+    "autoSave": true,
+    "showProgress": true,
+    "colorOutput": true,
+    "saveHistory": true
+  }
+}
