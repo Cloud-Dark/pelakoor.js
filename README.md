@@ -162,9 +162,7 @@ Report bugs or request new features at [GitHub Issues](https://github.com/Cloud-
 
 ## 📞 Support
 
-- 📧 Email: support@pelakoor.com
-- 💬 Discord: [Pelakoor Community](https://discord.gg/pelakoor)
-- 📱 Telegram: [@pelakoor_support](https://t.me/pelakoor_support)
+- 📧 Email: apipedia22@gmail.com
 
 ## 🙏 Acknowledgments
 
