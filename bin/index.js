@@ -10,9 +10,9 @@ import moment from 'moment';
 import axios from 'axios';
 import fs from 'fs-extra';
 
-import ApiManager from './config/apiManager.js';
-import GeocodingService from './services/geocodingService.js';
-import HistoryManager from './utils/historyManager.js';
+import ApiManager from '../config/apiManager.js';
+import GeocodingService from '../services/geocodingService.js';
+import HistoryManager from '../utils/historyManager.js';
 
 
 class PelakoorAdvanced {
