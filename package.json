@@ -5,7 +5,7 @@
   "main": "index.js",
   "type": "module",
   "bin": {
-    "pelakoor": "./index.js"
+    "pelakoor": "./bin/main.js"
   },
   "scripts": {
     "start": "node index.js",
