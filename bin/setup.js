@@ -1,6 +1,6 @@
 // setup.js
 const chalk = require('chalk');
-const ApiManager = require('./config/apiManager');
+const ApiManager = require('../config/apiManager');
 
 const runSetup = async () => {
   console.clear();
