@@ -10,7 +10,7 @@
   "scripts": {
     "start": "node bin/index.js",
     "test": "echo \"Error: no test specified\" && exit 1",
-    "setup": "node bin/setup.js",
+    "setup": "node bin/setup.js"
   },
   "dependencies": {
     "inquirer": "^9.2.12",
