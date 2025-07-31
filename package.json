@@ -1,6 +1,6 @@
 {
   "name": "pelakoor",
-  "version": "2.2.6",
+  "version": "2.2.7",
   "description": "🌍 Advanced Coordinate Toolkit - Your ultimate coordinate companion",
   "main": "./bin/index.js",
   "type": "module",
